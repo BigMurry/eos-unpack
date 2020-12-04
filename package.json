@@ -1,0 +1,13 @@
+{
+  "name": "eos-unpack",
+  "version": "1.0.0",
+  "description": "unpack eos packed tx",
+  "main": "index.js",
+  "repository": "git@github.com:BigMurry/eos-unpack.git",
+  "author": "BigMurry <12495406+BigMurry@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eosjs": "^21.0.3"
+  }
+}
