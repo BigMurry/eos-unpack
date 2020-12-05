@@ -1,6 +1,9 @@
 # eos-unpack
 unpack eos packed data
 
+# live tool based on this library
+https://bigmurry.github.io/eth-tool/decode
+
 # how to use
 ```javascript
 const unpackTx = require('eos-unpack');
